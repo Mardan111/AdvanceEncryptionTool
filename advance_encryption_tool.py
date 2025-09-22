@@ -74,7 +74,7 @@ def decrypt_aes_gcm(encrypted_file_path, output_path, password):
 class EncryptionApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Robust Encryption Tool")
+        self.root.title("Advance Encryption Tool")
         self.root.geometry("500x300")
         self.root.resizable(False, False)
 
