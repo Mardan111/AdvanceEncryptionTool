@@ -86,4 +86,16 @@ The application is designed to be straightforward and secure, with a separation 
 
 ## Output
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/462c222d-cfbd-4301-ba78-9287817b92d6" />
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a5551d04-be25-477c-84aa-2350be4fd2c6" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/47be244d-0ebc-4dcb-bfc2-a7648ef356c0" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/820b930f-b031-489c-9e7a-9e8506944866" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fbec1f40-d764-4fb4-b114-4a19c6d80261" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/121a94a3-2e43-46d9-9816-2ab949375a9f" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a05b73de-a8bd-44b0-8b5e-3ff3b0be9af6" />
